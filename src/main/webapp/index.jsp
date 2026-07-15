@@ -1097,7 +1097,7 @@
                     <ul>
                         <li><a href="#">Contact Us</a></li>
                         <li><a href="#">FAQs</a></li>
-                        <li><a href="#">Shipping Policy</a></li>
+                        <li><a href="#">Shipping POlicy</a></li>
                         <li><a href="#">Returns & Exchanges</a></li>
                         <li><a href="#">Track Order</a></li>
                     </ul>
